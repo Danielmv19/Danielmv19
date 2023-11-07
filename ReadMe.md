@@ -62,16 +62,3 @@
 <div align="center">
   <img height="150" src="https://media.tenor.com/nFAXdeN6tBYAAAAC/yamato-one-piece-one-piece-episode1015.gif"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Danielmv19/Danielmv19/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-</div>
-
-###
