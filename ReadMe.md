@@ -13,9 +13,9 @@
 > neofetch
 ```
 
-<img align="left" src="https://media.tenor.com/nFAXdeN6tBYAAAAC/yamato-one-piece-one-piece-episode1015.gif" width="162px"/> 
+<img align="left" src="https://media.tenor.com/nFAXdeN6tBYAAAAC/yamato-one-piece-one-piece-episode1015.gif" alt="yamato" width="162px"/> 
 
-```python
+```
 My Profile
 -------------------------------
 Name: Daniel.
