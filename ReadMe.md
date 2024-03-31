@@ -23,7 +23,7 @@ WhoamI: Data Analyst Student.
 Gender: Male.
 Location: Guayas, Ecuador.
 Loves: Videogames 🎮.
-Hobbies: Gaming and listening music 🎶.
+Hobbies: Gaming, listening music, anime.
 Languages: Python.
 Learning: Data Analyst.
 ```
