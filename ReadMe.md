@@ -3,7 +3,7 @@
 <body>
 <br>
 <div align="center">
-<img src="https://media1.tenor.com/m/5NTrd7G95KYAAAAC/runa-shirakawa-kimizero.gif" width="300px">
+<img src="https://media1.tenor.com/m/5NTrd7G95KYAAAAC/runa-shirakawa-kimizero.gif" width="800px">
 </div>
 <br>
 
@@ -13,13 +13,13 @@
 > neofetch
 ```
 
-<img align="left" src="https://media.tenor.com/nFAXdeN6tBYAAAAC/yamato-one-piece-one-piece-episode1015.gif" width="120px"/> 
+<img align="left" src="https://media.tenor.com/nFAXdeN6tBYAAAAC/yamato-one-piece-one-piece-episode1015.gif" width="162px"/> 
 
 ```python
 My Profile
 -------------------------------
 Name: Daniel.
-WhoamI: Data Analyst Student 🏫.
+WhoamI: Data Analyst Student.
 Gender: Male.
 Location: Guayas, Ecuador.
 Loves: Videogames 🎮.
