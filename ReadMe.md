@@ -19,13 +19,12 @@
 My Profile
 -------------------------------
 Name: Daniel.
-WhoamI: Data Analyst Student.
 Gender: Male.
 Location: Guayas, Ecuador.
 Loves: Videogames 🎮.
 Hobbies: Gaming, listening music, anime.
 Languages: Python.
-Learning: Data Analyst.
+Learning: Data Analysis. 
 ```
 
 <h2 align="center"> 💻 Tech Stack: </h2>
