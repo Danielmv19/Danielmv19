@@ -20,11 +20,11 @@ My Profile
 -------------------------------
 Name: Daniel.
 Gender: Male.
-Location: Guayas, Ecuador.
-Loves: Videogames 🎮.
-Hobbies: Gaming, listening music, anime.
+Location: Ecuador.
+Loves: 🎮.
+Hobbies: *.
 Languages: Python.
-Learning: Data Analysis. 
+Learning: *. 
 ```
 
 <h2 align="center"> 💻 Tech Stack: </h2>
